@@ -1,0 +1,7 @@
+package Pro_FGG;
+
+public class holamundo {
+	public static void main(String[] args) {
+		System.out.println("¡Hola mundo soy “Francisco”!");
+	}
+}
